@@ -1,11 +1,7 @@
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Rendering.VirtualTexturing;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
-using static UnityEngine.InputManagerEntry;
-using static UnityEngine.UIElements.UxmlAttributeDescription;
 
 /*
     PLAYERPREFS
